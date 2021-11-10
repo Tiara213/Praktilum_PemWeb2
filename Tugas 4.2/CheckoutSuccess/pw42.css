@@ -1,0 +1,124 @@
+body {
+    font-family: arial;
+    color: black;
+    background-color: powderblue;
+}
+
+.nav {
+    display: flex;
+    background-color: beige;
+    padding: 20px;
+}
+
+.div {
+    align-items: center;
+}
+
+.h1 {
+    text-align: left;
+}
+
+.ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.tablesatu {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+.asidesatu {
+    padding: 10px;
+}
+
+.informasi {
+    padding: 10px;
+}
+
+.tabledua {
+    display: flex;
+}
+
+.tdsatu {
+    gap: 10px;
+    max-width: 200px;
+}
+
+.tddua {
+    gap: 10px;
+    max-width: 200px;
+}
+
+.tdtiga {
+    gap: 10px;
+    max-width: 200px;
+}
+
+.tdempat {
+    gap: 10px;
+    max-width: 200px;
+}
+
+section .section1 {
+    display: flex;
+}
+
+.section2 h2 {
+    margin-top: -4px;
+}
+
+.section2 p {
+    padding-left: 10px;
+}
+
+.section2 hr {
+    border-color: brown;
+    margin-left: 9px;
+    width: 725px;
+}
+
+.aside {
+    padding: 10%;
+    padding-top: 5%;
+}
+
+.aside hr {
+    border-color: brown;
+}
+
+.aside h2 {
+    margin-left: 25px;
+    font-size: 17pt;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer, .footer1, .footer2 {
+    align-items: center;
+}
+
+.footer1 {
+    margin-left: 35px;
+}
+
+.footer1 b {
+    color: black;
+}
+
+.footer2 {
+    margin-right: 21px;
+}
+
+.footer2 i {
+    font-size: small;
+}

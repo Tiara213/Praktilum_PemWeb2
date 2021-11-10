@@ -1,0 +1,19 @@
+
+.profile h1{
+    font-size: larger;
+    font-style: italic;
+   
+}
+
+
+body {
+    font-style: oblique;
+    background-color: azure;
+}
+
+
+fieldset li{
+    list-style: none;
+    margin-top: 24px;
+    text-align: center;
+}
